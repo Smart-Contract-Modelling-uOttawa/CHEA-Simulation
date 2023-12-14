@@ -1,5 +1,7 @@
 These programs are supplementary to the paper Cyclic Homomorphic Encryption Aggregation (CHEA) -- a Novel Approach to Data Aggregation in the Smart Grid
 
+Directions:
+
 Run DSO.c
 
 Enter the desired SM (smart meter) population
